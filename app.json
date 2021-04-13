@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "book-santa-stage-7",
-    "slug": "book-santa-stage-7",
+    "name": "RICA_3",
+    "slug": "RICA_3",
     "platforms": [
       "ios",
       "android",
@@ -9,7 +9,7 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -25,7 +25,7 @@
       "supportsTablet": true
     },
      "android": {
-      "package": "com.bookSanta.bookSanta",
+      "package": "com.RICA_3.RICA_3",
       "versionCode": 1
     }
   }

@@ -1,10 +1,14 @@
 # WELCOME SCREEN:
 
-![](images/welcome.png)
+![](images/landing.png)
 
-# LOGIN & SIGNIN PAGE:
+# LOGIN  SCREEN:
 
-![](images/login.png)
+![](images/signIN.png)
+
+# SIGNUP  SCREEN:
+
+![](images/signUP.png)
 
 # HOME SCREEN:
 
@@ -16,4 +20,4 @@
 
 # ITEM REQUEST SCREEN:
 
-![](images/request.png)
+![](images/buy.png)
